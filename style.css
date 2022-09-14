@@ -2,7 +2,7 @@ body {
     text-align: center;
     background: rgb(29, 91, 161);
 }
-ul {
+div {
     text-align: left;
-    font-size:smaller;
+    font-size: smaller;
 }
