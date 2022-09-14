@@ -1,4 +1,8 @@
 body {
     text-align: center;
-    background: #a2d6f9;
+    background: rgb(29, 91, 161);
+}
+ul {
+    text-align: left;
+    font-size: small;
 }
