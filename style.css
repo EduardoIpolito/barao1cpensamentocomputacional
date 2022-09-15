@@ -2,7 +2,10 @@ body {
     text-align: center;
     background: rgb(29, 91, 161);
 }
-div {
+h2 { 
     text-align: left;
+}
+ul {
+    text-align: center;
     font-size: medium;
 }
