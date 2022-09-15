@@ -1,6 +1,8 @@
-body {
+body { 
+    background: rgb(15, 126, 177);
+}
+h1 {
     text-align: left;
-    background: rgb(29, 91, 161);
 }
 ul {
     text-align:left;
